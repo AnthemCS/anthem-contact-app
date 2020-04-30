@@ -1,0 +1,7 @@
+{
+  "name": "anthem-contact-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
